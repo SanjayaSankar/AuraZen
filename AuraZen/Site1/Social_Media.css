@@ -1,0 +1,25 @@
+.u-section-1 .u-sheet-1 {
+    min-height: 400px;
+  }
+
+.right
+{
+  display:flex;
+}
+.name
+{
+  margin-top:50px;
+  font-family: 'Sacramento', cursive;
+  font-size:35px;
+  margin-left:-15px;
+}
+.logo
+{
+  display: inline-block;
+  margin-left:-40px;
+
+}
+.u-logo-image-1
+{
+  margin-left:-30px;
+}
